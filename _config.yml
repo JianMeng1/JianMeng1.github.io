@@ -86,7 +86,7 @@ linkedin_username: jian-meng-49004a1b2 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
-osf_id: # your OSF IDs
+osf_id: # your OSF IDsß
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
@@ -185,7 +185,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: flase
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
