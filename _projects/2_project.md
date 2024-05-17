@@ -1,14 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Cognitive Control in Code-switching
+description:
+img: assets/img/code-switching.jpg
 importance: 2
-category: work
+category: Current
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
