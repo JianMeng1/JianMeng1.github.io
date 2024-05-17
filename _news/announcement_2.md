@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the 
+Announcements and news can be much longer than just quick inline posts. In fact, they can have all the
