@@ -53,5 +53,3 @@ There were in total 52 matching trials and 52 naming trials. The sequence of the
         {% include figure.liquid path="assets/img/trial sequence.jpg" title="Trial sequence" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-{% endraw %}
