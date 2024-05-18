@@ -41,7 +41,7 @@ Participants were told that they were matched with someone picked from a dataset
   </div>
 <div>
 
-In the experimental naming trial, they would see two objects, and they were instructed to type the name of the stimuli objects they had seen in the experimental matching trial. The target object in the experimental naming trial is the same one in the experimental matching trial. If the participant typed in the same word at the naming trial as the matching trial, this trial is marked as entrained.
+<p>In the experimental naming trial, they would see two objects, and they were instructed to type the name of the stimuli objects they had seen in the experimental matching trial. The target object in the experimental naming trial is the same one in the experimental matching trial. If the participant typed in the same word at the naming trial as the matching trial, this trial is marked as entrained. </p>
 
   <div class="row justify-content-sm-center">
    <div class="col-sm-8 mt-4 mt-md-0">
@@ -49,7 +49,7 @@ In the experimental naming trial, they would see two objects, and they were inst
   </div>
 </div>
 
-There were in total 52 matching trials and 52 naming trials. The sequence of the trials was fixed, with an experimental matching trial first, two filler trials in between, and an experimental naming trial at last. This cycle repeated 26 times before the task ended.
+<p>There were in total 52 matching trials and 52 naming trials. The sequence of the trials was fixed, with an experimental matching trial first, two filler trials in between, and an experimental naming trial at last. This cycle repeated 26 times before the task ended.</P>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-4 mt-md-0">
@@ -72,7 +72,7 @@ more proficient speakers tend to entrain less in the picture matching and naming
 <h3>Entrainment in Mandarin</h3>
 To further investigate this trend which is opposite to our original hypothesis, we conducted a replication analysis in Mandarin-English bilinguals. We hypothesized that for Mandarin-English bilingual participants, they would show similar entrainment behavior patterns in Mandarin: the more proficienct they are in Mandarin, the less they would entrain. The methods were identical to the English versions, but the materials were translated into Mandarin.
 
-The data showed no significant correlations between Mandarin proficiency and entrainment rate in Mandarin.
+<p><strong>The data showed no significant correlations between Mandarin proficiency and entrainment rate in Mandarin.</strong></p>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-4 mt-md-0">
@@ -80,7 +80,7 @@ The data showed no significant correlations between Mandarin proficiency and ent
   </div>
 </div>
 
-By running a t-test, we found that the entrainment rate in Mandarin is significantly higher than the entrainment rate in English condition, which supports the pattern we found earlier.
+<p>By running a t-test, we found that the entrainment rate in Mandarin is significantly higher than the entrainment rate in English condition, which supports the pattern we found earlier.</p>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-4 mt-md-0">
