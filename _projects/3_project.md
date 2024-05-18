@@ -3,7 +3,6 @@ layout: page
 title: Bilinbgual Lexical Entrainment
 description:
 img: assets/img/entrainment.jpg
-redirect: https://unsplash.com
 importance: 3
 category: Past
 ---
@@ -26,6 +25,8 @@ There are two mainstream explanations for the mechanism of entrainment, that lex
         <li><strong>Mediated entrainment:</strong> Features of the linguistic and social context affects speakers’ entrainment [4][5][6].</li>
     </ul>
 </div>
+
+<strong>Does language proficiency mediate lexical entrainment?</strong>
 
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
