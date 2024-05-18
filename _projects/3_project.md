@@ -11,7 +11,7 @@ category: Past
 Lexical entrainment is a dialogue phenomenon that speakers adopt their interlocutors’ word choice [1]. As we see from the picture below, one speaker says “computer” and the other speaker says “laptop” while they both refer to the same object. They start with different terms, but the second speaker ends up using “laptop” as well. In this process, the second speaker is entrained to the first speaker.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-4 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/entrainment.jpg" title="lexical entrainment" class="img-size-sm" %}
     </div>
 </div>
@@ -35,7 +35,7 @@ This is because less proficient bilinguals tend to have lower activation levels 
 <p><strong>Picture Matching and Naming：</strong> this task measures entrainment behavior. </p>
 Participants were told that they were matched with someone picked from a dataset who had done this task before, and they would see object names provided by their paired partners in matching trials. In each experimental matching trial, participants would see two pictures with an object name given by their “partners”. They needed to choose one picture that matched the word. 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
+  <div class="col-sm-8 mt-4 mt-md-0">
     {% include figure.liquid path="assets/img/experimental matching trial.jpg" title="Experimental matching trial" class="img-fluid rounded z-depth-1" %}
   </div>
 <div>
@@ -43,15 +43,28 @@ Participants were told that they were matched with someone picked from a dataset
 In the experimental naming trial, they would see two objects, and they were instructed to type the name of the stimuli objects they had seen in the experimental matching trial. The target object in the experimental naming trial is the same one in the experimental matching trial. If the participant typed in the same word at the naming trial as the matching trial, this trial is marked as entrained.
 
   <div class="row justify-content-sm-center">
-   <div class="col-sm-8 mt-3 mt-md-0">
+   <div class="col-sm-8 mt-4 mt-md-0">
     {% include figure.liquid path="assets/img/experimental matching trial.jpg" title="Experimental matching trial" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 There were in total 52 matching trials and 52 naming trials. The sequence of the trials was fixed, with an experimental matching trial first, two filler trials in between, and an experimental naming trial at last. This cycle repeated 26 times before the task ended. 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-4 mt-md-0">
         {% include figure.liquid path="assets/img/trial sequence.jpg" title="Trial sequence" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <h3>Findings</h3>
+The analysis supports the hypothesis that English proficiency mediates entrainment.
+However, the trend shown by the data is the opposite of our prediction. While we predicted that
+language proficiency is positively correlated with entrainment rate, the data suggested that the
+more proficient speakers tend to entrain less in the picture matching and naming task.
+
+  <div class="row justify-content-sm-center">
+   <div class="col-sm-8 mt-4 mt-md-0">
+    {% include figure.liquid path="assets/img/proficiency and entrainment rate.jpg" title="Proficiency and entrainment rate" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<h3>Entrainment in Mandarin</h3>
+To further investigate this trend which is opposite to our original hypothesis, we conducted a replication analysis in 
