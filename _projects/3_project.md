@@ -33,7 +33,8 @@ This is because less proficient bilinguals tend to have lower activation levels 
 <h3>Method</h3>
 <p><strong>Language Experience and Proficiency Questionnaire (LEAP-Q)：</strong> this questionnaire collects participants’ language history, self-reported language proficiency, language exposure, accent, and other relevant factors in their first and second languages.</p>
 <p><strong>Picture Matching and Naming：</strong> this task measures entrainment behavior. </p>
-Participants were told that they were matched with someone picked from a dataset who had done this task before, and they would see object names provided by their paired partners in matching trials. In each experimental matching trial, participants would see two pictures with an object name given by their “partners”. They needed to choose one picture that matched the word. 
+Participants were told that they were matched with someone picked from a dataset who had done this task before, and they would see object names provided by their paired partners in matching trials. In each experimental matching trial, participants would see two pictures with an object name given by their “partners”. They needed to choose one picture that matched the word.
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-4 mt-md-0">
     {% include figure.liquid path="assets/img/experimental matching trial.jpg" title="Experimental matching trial" class="img-fluid rounded z-depth-1" %}
@@ -47,7 +48,9 @@ In the experimental naming trial, they would see two objects, and they were inst
     {% include figure.liquid path="assets/img/experimental matching trial.jpg" title="Experimental matching trial" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-There were in total 52 matching trials and 52 naming trials. The sequence of the trials was fixed, with an experimental matching trial first, two filler trials in between, and an experimental naming trial at last. This cycle repeated 26 times before the task ended. 
+
+There were in total 52 matching trials and 52 naming trials. The sequence of the trials was fixed, with an experimental matching trial first, two filler trials in between, and an experimental naming trial at last. This cycle repeated 26 times before the task ended.
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-4 mt-md-0">
         {% include figure.liquid path="assets/img/trial sequence.jpg" title="Trial sequence" class="img-fluid rounded z-depth-1" %}
@@ -60,11 +63,32 @@ However, the trend shown by the data is the opposite of our prediction. While we
 language proficiency is positively correlated with entrainment rate, the data suggested that the
 more proficient speakers tend to entrain less in the picture matching and naming task.
 
-  <div class="row justify-content-sm-center">
-   <div class="col-sm-8 mt-4 mt-md-0">
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-4 mt-md-0">
     {% include figure.liquid path="assets/img/proficiency and entrainment rate.jpg" title="Proficiency and entrainment rate" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <h3>Entrainment in Mandarin</h3>
-To further investigate this trend which is opposite to our original hypothesis, we conducted a replication analysis in 
+To further investigate this trend which is opposite to our original hypothesis, we conducted a replication analysis in Mandarin-English bilinguals. We hypothesized that for Mandarin-English bilingual participants, they would show similar entrainment behavior patterns in Mandarin: the more proficienct they are in Mandarin, the less they would entrain. The methods were identical to the English versions, but the materials were translated into Mandarin.
+
+The data showed no significant correlations between Mandarin proficiency and entrainment rate in Mandarin.
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-4 mt-md-0">
+    {% include figure.liquid path="assets/img/Mandarin.jpg" title="Mandarin proficiency and entrainment rate" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+By running a t-test, we found that the entrainment rate in Mandarin is significantly higher than the entrainment rate in English condition, which supports the pattern we found earlier.
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-4 mt-md-0">
+    {% include figure.liquid path="assets/img/t-test.jpg" title="T-test" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<p style="color: green; font-family: Arial, sans-serif;"><strong>See the full report in our <a href="https://escholarship.org/uc/item/4cg7d1z0">Cognitive Science Society conference proceedings</a>!</strong></p>
+
+<h3> References </h3>
+[1] Garrod, S., & Anderson, A. (1987). Saying what you mean in dialogue: A study in conceptual and semantic co-ordination. Cognition, 27(2), 181-218. [2] Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. Behavioral and brain sciences, 27(2), 169-190. [3] Costa, A., Pickering, M. J., & Sorace, A. (2008). Alignment in second language dialogue. Language and cognitive processes, 23(4), 528-556. [4] Cai, Z. G., Sun, Z., & Zhao, N. (2021). Interlocutor modelling in lexical alignment: The role of linguistic competence. Journal of Memory and Language, 121, 104278. [5] Tobar-Henríquez, A., Rabagliati, H., & Branigan, H. P. (2021). Speakers extrapolate community- level knowledge from individual linguistic encounters. Cognition, 210, 104602. [6] Scissors, L. E., Gill, A. J., & Gergle, D. (2008, November). Linguistic mimicry and trust in text- based CMC. In Proceedings of the 2008 ACM conference on Computer supported cooperative work (pp. 277-280).
