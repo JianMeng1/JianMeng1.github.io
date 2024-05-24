@@ -20,4 +20,4 @@ related_publications: false
 
 <p>There are two possible directions we want to investigate: first, we would like to see how the moral violation processing is related to the individuals' moral judgement. Moral judgement can be very personal. Different people can have very different moral judgements on the same event. We hope to find something interesting by conducting an item-based analysis. Second, we are interested in looking at participants’ adaptation on the moral violations. We speculate that we might see a gradual decrease of the ERP component amplitude throughout the trials since the participants become less stimulated by the moral violations. </p>
 
-Any thoughts? Pleaee reach out to me if you are intrugued by our study!
+<p style="color: green; font-family: Arial, sans-serif;"> Any thoughts? Pleaee reach out to me if you are intrugued by our study!</p>
