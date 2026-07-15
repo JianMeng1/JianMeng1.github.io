@@ -25,6 +25,7 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
+      - "_bibliography/**"
   pull_request:
     branches:
       - master
@@ -49,6 +50,7 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
+      - "_bibliography/**"
   workflow_dispatch:
 
 permissions:
