@@ -2,7 +2,7 @@
 layout: page
 title: Short-Form Media and Sentence Processing
 description: How media habits, working memory, and language experience may shape ambiguity resolution across reading formats.
-img:
+img:/assets/img/Sealion.jpg/
 importance: 2
 category: Current
 related_publications: false
